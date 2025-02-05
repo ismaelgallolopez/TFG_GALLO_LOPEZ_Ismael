@@ -2,6 +2,7 @@ name: ismael
 channels:
   - conda-forge
   - defaults
+  - fdajlñf
 dependencies:
   - asttokens=2.4.1=pyhd8ed1ab_0
   - autograd=1.5=py312haa95532_0
